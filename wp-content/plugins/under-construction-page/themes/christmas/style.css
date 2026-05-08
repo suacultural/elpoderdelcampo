@@ -29,7 +29,7 @@ body {
   margin: 0 auto 0 auto;
   padding: 40px 0 0 0;
   background-color: #41d1fd;
-  background-image: url(/wp-content/plugins/under-construction-page/themes/christmas/snow.png);
+  background-image: url(/elpoderdelcampo/wp-content/plugins/under-construction-page/themes/christmas/snow.png);
 }
 
 #hero-image img {
@@ -39,7 +39,7 @@ body {
 
 #snow-bottom {
   height: 27px;
-  background-image: url(/wp-content/plugins/under-construction-page/themes/christmas/snow-bottom.png);
+  background-image: url(/elpoderdelcampo/wp-content/plugins/under-construction-page/themes/christmas/snow-bottom.png);
   background-repeat: no-repeat;
 }
 .container-wrap {

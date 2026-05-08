@@ -151,7 +151,7 @@
 	content: '';
 	width: 10px;
 	height: 14px;
-	background: url("/wp-content/plugins/google-analytics-for-wordpress/assets/images/restricted.svg") no-repeat center center;
+	background: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/assets/images/restricted.svg") no-repeat center center;
 	position: absolute;
 	left: calc(40% - 5px);
 	top: calc(50% - 7px);

@@ -416,40 +416,40 @@
 
 @font-face {
   font-family: "Roboto";
-  src: url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/Roboto-Regular.woff2") format("woff2");
+  src: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/Roboto-Bold.woff2") format("woff2");
+  src: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "Lato";
-  src: url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-regular-webfont.woff") format("woff"), url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-regular-webfont.woff2") format("woff2");
+  src: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-regular-webfont.woff") format("woff"), url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-regular-webfont.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Lato";
-  src: url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-bold-webfont.woff") format("woff"), url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-bold-webfont.woff2") format("woff2");
+  src: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-bold-webfont.woff") format("woff"), url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-bold-webfont.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "text-security-disc";
-  src: url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.woff2") format("woff2"), url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.woff") format("woff"), url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.ttf") format("truetype");
+  src: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.woff2") format("woff2"), url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.woff") format("woff"), url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.ttf") format("truetype");
 }
 @font-face {
   font-family: "DM Sans";
-  src: url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/DMSans-Regular.ttf") format("truetype");
+  src: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/DMSans-Regular.ttf") format("truetype");
   font-weight: normal;
 }
 @font-face {
   font-family: "DM Sans";
-  src: url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/DMSans-Bold.ttf") format("truetype");
+  src: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/DMSans-Bold.ttf") format("truetype");
   font-weight: 700;
 }
 .icon {
@@ -468,7 +468,7 @@
 
 @font-face {
   font-family: "Misettings";
-  src: url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.woff2?v=7.5.0") format("woff2"), url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.woff?v=7.5.0") format("woff"), url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.ttf?v=7.5.0") format("truetype"), url("/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.otf?v=7.5.0") format("opentype");
+  src: url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.woff2?v=7.5.0") format("woff2"), url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.woff?v=7.5.0") format("woff"), url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.ttf?v=7.5.0") format("truetype"), url("/elpoderdelcampo/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.otf?v=7.5.0") format("opentype");
   font-weight: 400;
   font-style: normal;
 }
