@@ -41259,7 +41259,7 @@ function useScrollable(props) {
     ...otherProps
   } = useContextSystem(props, "Scrollable");
   const cx = useCx();
-  const classes = (0,external_wp_element_namespaceObject.useMemo)(() => cx(Scrollable, scrollableScrollbar, smoothScroll && styles_smoothScroll, scrollDirection === "x" && scrollX, scrollDirection === "y" && scrollY, scrollDirection === "auto" && scrollAuto, className), [className, cx, scrollDirection, smoothScroll]);
+  const classes = (0,external_wp_element_namespaceObject.useMemo)(() => cx(Scrollable, scrollableScrollbar, smoothScroll && styles_smoothScroll, scrollDirection === "x" && scrollX, scrollDirection === "y" && scrollY, scrollDirection === "auto" && scrollclassName), [className, cx, scrollDirection, smoothScroll]);
   return {
     ...otherProps,
     className: classes
